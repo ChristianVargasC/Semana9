@@ -7,7 +7,7 @@ imports: [FormsModule],
 templateUrl: './app.component.html',
 styleUrl: './app.component.css'
 })
-export class AppComponent {
+export class App {
 n1: number = 0;
 n2: number = 0;
 n3: number = 0;
