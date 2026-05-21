@@ -4,8 +4,8 @@ import { FormsModule } from '@angular/forms';
 selector: 'app-root',
 standalone: true,
 imports: [FormsModule],
-templateUrl: './app.component.html',
-styleUrl: './app.component.css'
+templateUrl: './app.html',
+styleUrl: './app.css'
 })
 export class App {
 n1: number = 0;
